@@ -88,7 +88,7 @@ function Footer() {
               </div>
             </div>
             <div className="visible basis-4 mb-7 shrink-0 ">
-              <h5 className="text-uppercase mb-7 font-bold text-xl ml-3">Support</h5>
+              <h5 className="uppercase mb-7 font-bold text-xl ml-3">Support</h5>
               <div className="container">
                 <ul className="menu ml-0">
                   <li class="mb-3 text-base hover:underline">
@@ -148,13 +148,13 @@ function Footer() {
       <div className="relative">
         <div className="container">
           <div className="pt-6 pb-1 border-t-2 border-slate-200 ">
-            <div className="flex items-center flex justify-between ">
+            <div className="flex items-center  justify-between ">
               <div className=" text-center  visible mb-5">
                 <a href="https://kidify.themebeer.com">
                   <img alt="kidify" src="./src/assets/logo.svg" />
                 </a>
               </div>
-              <div className=" text-center  -mb-  basis-0">
+              <div className=" text-center   basis-0">
                 <span className=" neutral-900 mr-1  text-nowrap">
                   <p>©2024 <a href="#">Kidify</a>. All rights reserved</p>                        
               </span>

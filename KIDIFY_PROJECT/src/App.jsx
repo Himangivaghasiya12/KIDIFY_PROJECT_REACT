@@ -1,12 +1,20 @@
 import './App.css'
-import Sign from './components/Sign/Sign'
-import Login from './components/Login/Login'
-import Error_404 from './components/Pages/Error_404'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Blog_list from './components/Pages/Blog_list'
-import Wishlist from './components/Pages/Wishlist'
-// import App from './components/Pages/Navbar' 
-import Footer from './components/Pages/Footer'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import Feed_insta from './components/Feed_insta'
+import Box_cantian from './components/Box_cantian'
+import Home from './pages/Home'
+import Sign from './pages/Sign'
+import Login from './pages/Login'
+import Error_404 from './pages/Error_404'
+import Blog_list from './pages/Blog_list'
+import Wishlist from './pages/Wishlist'
+import Contect from './pages/Contect'
+
+
+
+
                                                                                                                  
 
 function App() {
@@ -20,6 +28,10 @@ function App() {
 	 {/* <Wishlist/> */}
       {/* <Navbar/> */}
       {/* <Footer/> */}
+      {/* <Feed_insta/> */}
+      {/* <Box_cantian/> */}
+      {/* <Home/> */}
+      {/* <Contect/> */}
   
 	
      

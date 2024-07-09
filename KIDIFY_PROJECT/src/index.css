@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn{
+    
+    font-size: 22px;
+    line-height: 27px;
+    font-family: "Lobster Two", display;
+    font-weight: 700;
+    border: 0px;
+    padding-left: 0px;
+    padding-right: 20px;
+    position: relative;
+    color: #1C1D1D;
+}
+
+.girl{
+    border: 0px;
+    border-bottom: 1px solid var(--kidify-primary-color);
+    color:plum;
+
+}

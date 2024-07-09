@@ -17,7 +17,7 @@ const Login = () => {
                 <a className='text-3xl  text-slate-500 hover:text-orange-400 font-serif ml-5' href='#'>Sign up</a>
              </div>   
                 <input type="Email" placeholder="Email" className='block mt-7 border-2 border-gray-200 bg-transparent p-3 w-96 rounded-md text-gray-500 placeholder:text-gray-400 placeholder-slate-400 focus:ring-0 font-medium sm:text-sm sm:leading-6 m-auto' name="username" id="emai" autocomplete="username" value=""></input>
-                <input type="Password" placeholder="Password" className='block border-2 border-gray-200 bg-transparent p-3  w-96 rounded-md text-gray-500 placeholder:text-gray-400 placeholder-slate-400 focus:ring-0 font-medium sm:text-sm sm:leading-6 m-auto' name="username" id="password" autocomplete="username" value=""></input>
+                <input type="Password" placeholder="Password" className='block border-2 border-gray-200 bg-transparent p-3 mt-6  w-96 rounded-md text-gray-500 placeholder:text-gray-400 placeholder-slate-400 focus:ring-0 font-medium sm:text-sm sm:leading-6 m-auto' name="username" id="password" autocomplete="username" value=""></input>
                 <p className='text-orange-300 w-96 mt-4'>Forgot your password?</p>
                 <button className='bg-purple-400 mt-7 rounded-sm p-2 w-96 '>Login</button>
                 <p className="mt-28 text-center hover:text-orange-400"><a class="font-sm" href="#">Privacy &amp; Terms</a></p>
