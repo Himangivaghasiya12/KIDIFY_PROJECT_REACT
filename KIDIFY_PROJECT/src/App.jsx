@@ -23,14 +23,14 @@ function App() {
     <>
      {/* <Sign/> */}
      {/* <Login/> */}
-     <Error_404/>
+     {/* <Error_404/> */}
      {/* <Blog_list/> */}
 	 {/* <Wishlist/> */}
       {/* <Navbar/> */}
       {/* <Footer/> */}
       {/* <Feed_insta/> */}
       {/* <Box_cantian/> */}
-      {/* <Home/> */}
+      <Home/>
       {/* <Contect/> */}
   
 	

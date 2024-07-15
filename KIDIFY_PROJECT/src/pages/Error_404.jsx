@@ -77,13 +77,16 @@ const Error_404 = () => {
 		// 						<strong class="d-block mb-5 font-xl-bold">Social Network</strong>
 		// 						<p class="font-md">
 		// 							456 Park Avenue South, Apt 7B
-		// 							New York, NY 10016										</p>
+		// 							New York, NY 10016										</p>-+
+		
 		// 					</div>
 		// 				</div>
 		// 			</div>
 		// 		</div>
 		// 	</div>
 		// </section>
+
+
 
 
 		<section className='container-lg flex items-center justify-center mt-12'>
@@ -148,15 +151,15 @@ const Error_404 = () => {
 				
 				</div>
 					
-					<div className='pb-10 border-b-2  border-b-zinc-200'>
-					</div>
+					<div className='pb-10 border-b-2  border-b-zinc-200'> 
+					</div> 
 					
 					<div className='flex pt-10'>
 						<div className='mb-16 '>
 							<div className='m-0 p-0'>
 								<section>
 									<div className='mt-28'>
-										<div className='bg-cover border-2 border-red-600 border-dashed bg-[]'>
+										<div className='bg-cover border-2 border-red-600 border-dashed '>
 											<img src="./src/assets/error_bg.png" alt="" />
 											<div className='flex flex-wrap  '>
 												<div className=' w-1/12'></div>
