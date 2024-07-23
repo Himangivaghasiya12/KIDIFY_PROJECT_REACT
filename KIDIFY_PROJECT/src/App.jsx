@@ -11,6 +11,8 @@ import Error_404 from './pages/Error_404'
 import Blog_list from './pages/Blog_list'
 import Wishlist from './pages/Wishlist'
 import Contect from './pages/Contect'
+import Cart from './pages/Cart'
+import MultipleItems from './pages/MultipleItems'
 
 
 
@@ -30,8 +32,10 @@ function App() {
       {/* <Footer/> */}
       {/* <Feed_insta/> */}
       {/* <Box_cantian/> */}
-      <Home/>
+      {/* <Home/> */}
       {/* <Contect/> */}
+      {/* <Cart/> */}
+      <MultipleItems/>
   
 	
      
